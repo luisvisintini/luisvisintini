@@ -12,12 +12,12 @@
 ```javascript
 const Luis_Visintini = {
     tecnologias: {
-        FrontEnd: {
+        frontEnd: {
             js: ["React", "Next.js", "React Native"],
             css: ["Css 3", "Tailwindcss", "Material UI", "Bootstrap"]
         },
         backEnd: ["Node.js"],
-        databases: ["MYSQL", "MongoDB", "Prisma"],
+        dataBases: ["MYSQL", "MongoDB", "Prisma"],
     }
 };
 
