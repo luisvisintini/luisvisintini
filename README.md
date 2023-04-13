@@ -6,9 +6,11 @@
 <p align="center">Soy <strong>Estudiante Full Stack</strong></p>
 <p align="center">👨‍🎓 Portfolio aún en construcción, te dejo algunos de mis proyectos
    <a href="https://musicbeatdjs.netlify.app/" target="_blank">https://musicbeatdjs.netlify.app/</a>
-   <a href="https://actienda-ecommerce.vercel.app/" target="_blank">https://actienda-ecommerce.vercel.app/</a>
  </p>
 <br />
+<p align="center">
+   <a href="https://actienda-ecommerce.vercel.app/" target="_blank">https://actienda-ecommerce.vercel.app/</a>
+ </p>
 
 ```javascript
 const Luis_Visintini = {
