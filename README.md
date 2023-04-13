@@ -1,11 +1,12 @@
 <p align="center" width="300">
    <img align="center" width="200" src="https://user-images.githubusercontent.com/88244033/229360364-50511897-a43c-457b-bf38-667679f1a794.png"/>
-   <h3 align="center">¡Hey 👋! Soy Luis Visintini 👨🏻‍💻</h3>
+   <h3 align="center">¡Hey 👋! Mi nombre es Luis Visintini 👨🏻‍💻</h3>
 </p>
 
 <p align="center">Soy <strong>Estudiante Full Stack</strong></p>
-<p align="center">👨‍🎓 Portfolio aún en construcción, te dejo mi primer proyecto
+<p align="center">👨‍🎓 Portfolio aún en construcción, te dejo algunos de mis proyectos
    <a href="https://musicbeatdjs.netlify.app/" target="_blank">https://musicbeatdjs.netlify.app/</a>
+   <a href="https://actienda-ecommerce.vercel.app/" target="_blank">https://actienda-ecommerce.vercel.app/</a>
  </p>
 <br />
 
