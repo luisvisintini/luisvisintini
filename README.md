@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">Soy <strong>Estudiante Full Stack</strong></p>
-<p align="center">👨‍🎓 Portfolio aún en construcción, te dejo algunos de mis proyectos: </p>
+<p align="center">👨‍🎓 Portfolio en construcción, te dejo algunos de mis proyectos: </p>
 <p align="center">
    <a href="https://musicbeatdjs.netlify.app/" target="_blank">https://musicbeatdjs.netlify.app/</a>
  </p>
