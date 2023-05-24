@@ -76,6 +76,9 @@ const Luis_Visintini = {
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
+
+### 📈📊 Github Stats:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisvisintini)](https://github.com/luisvisintini/github-readme-stats)
 <!--
 **luisvisintini/luisvisintini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
