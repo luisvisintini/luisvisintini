@@ -78,7 +78,7 @@ const Luis_Visintini = {
 
 
 ### 📈📊 Github Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisvisintini)](https://github.com/luisvisintini/github-readme-stats)
+<a href="http://www.github.com/luisvisintini"><img src="https://github-readme-stats.vercel.app/api?username=luisvisintini&show_icons=true&hide=issues,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="luisvisintini's GitHub stats" /></a>
 <!--
 **luisvisintini/luisvisintini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
