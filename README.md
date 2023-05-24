@@ -1,5 +1,4 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://user-images.githubusercontent.com/88244033/229360364-50511897-a43c-457b-bf38-667679f1a794.png"/>
    <h3 align="center">¡Hey 👋! Mi nombre es Luis Visintini 👨🏻‍💻</h3>
 </p>
 
