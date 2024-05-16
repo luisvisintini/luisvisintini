@@ -18,7 +18,7 @@ const Luis_Visintini = {
             css: ["Css 3", "Tailwindcss", "Material UI", "Bootstrap"]
         },
         backEnd: ["Node.js"],
-        dataBases: ["MYSQL", "MongoDB", "Prisma"],
+        dataBases: ["MYSQL", "MongoDB", "Prisma", "Firebase"],
     }
 };
 
