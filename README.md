@@ -1,10 +1,9 @@
-<p align="center" width="300">
-   <h3 align="center">¡Hey 👋! Mi nombre es Luis Visintini 👨🏻‍💻</h3>
-</p>
+# ¡Hey Coders 👋! My name is Luis Visintini 👨🏻‍💻
 
-<p align="center"><strong> Full Stack Developer </strong></p>
-<p align="center">👨‍🎓 Mi Portfolio: <a href="https://landing2023.vercel.app/" target="_blank">https://landing2023.vercel.app/</a></p>
-<p align="center">Mi primer proyecto:</p>
+Developer • Used to be a DJ 🎧 • Love dogs 🐕 ♥️
+===============================================
+<p align="center">👨‍🎓 My Website: <a href="https://landing2023.vercel.app/" target="_blank">https://landing2023.vercel.app/</a></p>
+<p align="center">My first project</p>
 <p align="center">
    <a href="https://musicbeatdjs.netlify.app/" target="_blank">https://musicbeatdjs.netlify.app/</a>
  </p>
@@ -12,7 +11,7 @@
 
 ```javascript
 const Luis_Visintini = {
-    tecnologias: {
+    techs: {
         frontEnd: {
             js: ["React", "Next.js", "React Native"],
             css: ["Css 3", "Tailwindcss", "Material UI", "Bootstrap"]
@@ -24,7 +23,7 @@ const Luis_Visintini = {
 
 ```
 
-### 🔔 Mis Redes Sociales:
+### 🔔 Socials:
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luisvisintini)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:djluisvisintini@gmail.com)
@@ -34,7 +33,7 @@ const Luis_Visintini = {
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/luisvisintini)
 
 
-### 🛠️ Lenguajes y Herramientas:
+### 🛠️ Skills:
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
